@@ -1,0 +1,180 @@
+===================================================
+Device_type: cisco_ios >> IP: 192.168.122.11 
+---------------------------------------------------
+configure terminal
+Enter configuration commands, one per line.  End with CNTL/Z.
+R1(config)#snmp-server community Santu1 ro
+R1(config)#snmp-server community Santu2 rw
+R1(config)#snmp-server community public rw
+R1(config)#
+---------------------------------------------------
+===================================================
+Device_type: cisco_ios >> IP: 192.168.122.11 
+---------------------------------------------------
+configure terminal
+Enter configuration commands, one per line.  End with CNTL/Z.
+R1(config)#snmp-server community Santu1 ro
+R1(config)#snmp-server community Santu2 rw
+R1(config)#snmp-server community public rw
+R1(config)#
+---------------------------------------------------
+===================================================
+Device_type: cisco_ios >> IP: 192.168.122.12 
+---------------------------------------------------
+configure terminal
+Enter configuration commands, one per line.  End with CNTL/Z.
+MLS1(config)#snmp-server community Santu1 ro
+MLS1(config)#snmp-server community Santu2 rw
+MLS1(config)#snmp-server community public rw
+MLS1(config)#
+---------------------------------------------------
+===================================================
+Device_type: cisco_ios >> IP: 192.168.122.11 
+---------------------------------------------------
+configure terminal
+Enter configuration commands, one per line.  End with CNTL/Z.
+R1(config)#snmp-server community Santu1 ro
+R1(config)#snmp-server community Santu2 rw
+R1(config)#snmp-server community public rw
+R1(config)#
+---------------------------------------------------
+===================================================
+Device_type: cisco_ios >> IP: 192.168.122.12 
+---------------------------------------------------
+configure terminal
+Enter configuration commands, one per line.  End with CNTL/Z.
+MLS1(config)#snmp-server community Santu1 ro
+MLS1(config)#snmp-server community Santu2 rw
+MLS1(config)#snmp-server community public rw
+MLS1(config)#
+---------------------------------------------------
+===================================================
+Device_type: cisco_ios >> IP: 192.168.122.22 
+---------------------------------------------------
+configure terminal
+Enter configuration commands, one per line.  End with CNTL/Z.
+MLS2(config)#snmp-server community Santu1 ro
+MLS2(config)#snmp-server community Santu2 rw
+MLS2(config)#snmp-server community public rw
+MLS2(config)#
+---------------------------------------------------
+===================================================
+Device_type: cisco_ios >> IP: 192.168.122.11 
+---------------------------------------------------
+configure terminal
+Enter configuration commands, one per line.  End with CNTL/Z.
+R1(config)#snmp-server community Santu1 ro
+R1(config)#snmp-server community Santu2 rw
+R1(config)#snmp-server community public rw
+R1(config)#
+---------------------------------------------------
+===================================================
+Device_type: cisco_ios >> IP: 192.168.122.11 
+---------------------------------------------------
+configure terminal
+Enter configuration commands, one per line.  End with CNTL/Z.
+R1(config)#snmp-server community Santu1 ro
+R1(config)#snmp-server community Santu2 rw
+R1(config)#snmp-server community public rw
+R1(config)#
+---------------------------------------------------
+===================================================
+Device_type: cisco_ios >> IP: 192.168.122.12 
+---------------------------------------------------
+configure terminal
+Enter configuration commands, one per line.  End with CNTL/Z.
+MLS1(config)#snmp-server community Santu1 ro
+MLS1(config)#snmp-server community Santu2 rw
+MLS1(config)#snmp-server community public rw
+MLS1(config)#
+---------------------------------------------------
+===================================================
+Device_type: cisco_ios >> IP: 192.168.122.11 
+---------------------------------------------------
+configure terminal
+Enter configuration commands, one per line.  End with CNTL/Z.
+R1(config)#snmp-server community Santu1 ro
+R1(config)#snmp-server community Santu2 rw
+R1(config)#snmp-server community public rw
+R1(config)#
+---------------------------------------------------
+===================================================
+Device_type: cisco_ios >> IP: 192.168.122.12 
+---------------------------------------------------
+configure terminal
+Enter configuration commands, one per line.  End with CNTL/Z.
+MLS1(config)#snmp-server community Santu1 ro
+MLS1(config)#snmp-server community Santu2 rw
+MLS1(config)#snmp-server community public rw
+MLS1(config)#
+---------------------------------------------------
+===================================================
+Device_type: cisco_ios >> IP: 192.168.122.22 
+---------------------------------------------------
+configure terminal
+Enter configuration commands, one per line.  End with CNTL/Z.
+MLS2(config)#snmp-server community Santu1 ro
+MLS2(config)#snmp-server community Santu2 rw
+MLS2(config)#snmp-server community public rw
+MLS2(config)#
+---------------------------------------------------
+===================================================
+Device_type: cisco_ios >> IP: 192.168.122.11 
+---------------------------------------------------
+configure terminal
+Enter configuration commands, one per line.  End with CNTL/Z.
+R1(config)#snmp-server community Santu1 ro
+R1(config)#snmp-server community Santu2 rw
+R1(config)#snmp-server community public rw
+R1(config)#
+---------------------------------------------------
+===================================================
+Device_type: cisco_ios >> IP: 192.168.122.11 
+---------------------------------------------------
+configure terminal
+Enter configuration commands, one per line.  End with CNTL/Z.
+R1(config)#snmp-server community Santu1 ro
+R1(config)#snmp-server community Santu2 rw
+R1(config)#snmp-server community public rw
+R1(config)#
+---------------------------------------------------
+===================================================
+Device_type: cisco_ios >> IP: 192.168.122.12 
+---------------------------------------------------
+configure terminal
+Enter configuration commands, one per line.  End with CNTL/Z.
+MLS1(config)#snmp-server community Santu1 ro
+MLS1(config)#snmp-server community Santu2 rw
+MLS1(config)#snmp-server community public rw
+MLS1(config)#
+---------------------------------------------------
+===================================================
+Device_type: cisco_ios >> IP: 192.168.122.11 
+---------------------------------------------------
+configure terminal
+Enter configuration commands, one per line.  End with CNTL/Z.
+R1(config)#snmp-server community Santu1 ro
+R1(config)#snmp-server community Santu2 rw
+R1(config)#snmp-server community public rw
+R1(config)#
+---------------------------------------------------
+===================================================
+Device_type: cisco_ios >> IP: 192.168.122.12 
+---------------------------------------------------
+configure terminal
+Enter configuration commands, one per line.  End with CNTL/Z.
+MLS1(config)#snmp-server community Santu1 ro
+MLS1(config)#snmp-server community Santu2 rw
+MLS1(config)#snmp-server community public rw
+MLS1(config)#
+---------------------------------------------------
+===================================================
+Device_type: cisco_ios >> IP: 192.168.122.22 
+---------------------------------------------------
+configure terminal
+Enter configuration commands, one per line.  End with CNTL/Z.
+MLS2(config)#snmp-server community Santu1 ro
+MLS2(config)#snmp-server community Santu2 rw
+MLS2(config)#snmp-server community public rw
+MLS2(config)#
+---------------------------------------------------

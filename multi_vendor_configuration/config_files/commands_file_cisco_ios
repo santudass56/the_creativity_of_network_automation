@@ -1,0 +1,3 @@
+snmp-server community Santu1 ro
+snmp-server community Santu2 rw
+snmp-server community public rw

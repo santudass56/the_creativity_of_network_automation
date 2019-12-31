@@ -27,6 +27,8 @@ You should put the all remote hosts IP into "host_file.txt" file
 
 Then put verious vendor configs file into "config_files" Directory
 
+After that you could run the script
+
 When your script will finish to configured your network after that you colud find ERROR's inside the "output_files" directory
 
 ### Script 2: 02_ReadFromExcel_and_configure
@@ -35,7 +37,7 @@ This script will help you to configure multiple vendor devices from multiple con
 
 You should put all devices details like: hostname, ip, username, password, secret, vendor details inside the "devices_details.xlsx" excel file
 
-Then crate configs file as name of device hostname and put those file inside the  "config_files" directory
+Then create configs files as name of device hostname and put those files inside the "config_files" directory
 
 After that you could run the script
 

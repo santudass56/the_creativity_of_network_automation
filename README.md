@@ -2,7 +2,7 @@
 
 Python is widely used to perform network automation. With its wide set of libraries (such as Netmiko and Paramiko), there are endless possibilities for network device interactions for different vendors. Let us understand one of the most widely used libraries for network interactions. We will be using Netmiko and Paramiko to perform our network interactions.
 
-# Programing rules of thumb
+## Programing rules of thumb
 
 If you use a set of text more than once make it a variable, that way it’s super easy to update it when you want to make a tweak to your program.
 Lots of code examples have variable names like “a”, don’t do this, it’s not bad while you’re writing the code, but in 2 months when you or someone else is reading your code you will regret not typing out a descriptive variable.
@@ -12,7 +12,7 @@ If you find yourself doing the same thing repeatedly make it a function. Not jus
 
 Following scripts are help you to automate your network easily
 
-### multi_vendor_configuration
+### Script 1: multi_vendor_configuration
 
 This script will help you to configure multiple vendor devices from multiple configuration files.
 
@@ -29,7 +29,7 @@ Then put verious vendor configs file into "config_files" Directory
 
 When your script will finish to configured your network after that you colud find ERROR's inside the "output_files" directory
 
-### 02_ReadFromExcel_and_configure
+### Script 2: 02_ReadFromExcel_and_configure
 
 This script will help you to configure multiple vendor devices from multiple configuration files and fetching devices information from Excel.
 

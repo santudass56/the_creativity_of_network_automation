@@ -29,7 +29,7 @@ Then put verious vendor configs file into "config_files" Directory
 
 After that you could run the script
 
-When your script will finish to configured your network after that you colud find ERROR's inside the "output_files" directory
+When your script will finish to configured your network after that you could find configs status and ERROR'sinside the "output_files" directory
 
 ### Script 2: 02_ReadFromExcel_and_configure
 

@@ -25,7 +25,7 @@ Script Supported Vendors
 
 You should put the all remote hosts IP into "host_file.txt" file
 
-Then put verious vendor configs file into "config_files" Directory
+Then put various vendor configs file into "config_files" Directory
 
 After that you could run the script
 
